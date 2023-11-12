@@ -1,8 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Projeto de braço direito SENAI
 
-Currently, two official plugins are available:
+um projeto para auxiliar professores e alunos com relação aos conteúdos passados
+beneficiando as turmas com a facilidade e clareza de manuseio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Autores
+
+- [@LucasCid](https://www.github.com/luscacid)
+- [@IgorGabriel](https://www.github.com/cato21)
+
+
+## Variáveis de Ambiente
+
+Para rodar esse projeto, você vai precisar rodar estas funcoes nos dois arquivos, tanto no frontend quanto no backend
+
+`nmp install`
+`nmp run dev`
